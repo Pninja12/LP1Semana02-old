@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulaVar", "ManipulaVar\ManipulaVar.csproj", "{23F39DD3-2B33-4D05-BE24-93922E1B889E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerguntaValores", "PerguntaValores\PerguntaValores.csproj", "{02700DE4-A041-4341-8968-6EF41462429C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{23F39DD3-2B33-4D05-BE24-93922E1B889E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F39DD3-2B33-4D05-BE24-93922E1B889E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F39DD3-2B33-4D05-BE24-93922E1B889E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02700DE4-A041-4341-8968-6EF41462429C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02700DE4-A041-4341-8968-6EF41462429C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02700DE4-A041-4341-8968-6EF41462429C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02700DE4-A041-4341-8968-6EF41462429C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
