@@ -15,8 +15,10 @@ namespace Specials
             Console.WriteLine($"Uint Max Value = {uint.MaxValue} and Min Value = {uint.MinValue}");
             Console.WriteLine($"Ulong Max Value = {ulong.MaxValue} and Min Value = {ulong.MinValue}");
             Console.WriteLine($"Char Max Value = {char.MaxValue} and Min Value = {char.MinValue}");
-            Console.WriteLine($"Positive infinity = {double.PositiveInfinity} and negative infinity = {double. NegativeInfinity}");
-            Console.WriteLine($"Nan = {double. PositiveInfinity / double. PositiveInfinity}");
+            Console.WriteLine($"Positive infinity = {double.PositiveInfinity} and negative infinity = {double.NegativeInfinity}");
+            Console.WriteLine($"Nan = {double.PositiveInfinity / double.PositiveInfinity}");
+            int i = short.MaxValue;
+            Console.WriteLine($"{i} + 1 = {(short)(i + 1)}");
         }
     }
 }
